@@ -113,11 +113,15 @@ section .btntwo{
       
 }
 @keyframes changetext {
-    0%{content: "Darjeeling";}
+     0%{content: "Darjeeling";}
+    10%{content: "Lucknow";}
     20%{content: "agra";}
-    35%{content: "jaipur";}
-    60%{content: "kerala";}
+    30%{content: "Mirzapur";}
+    40%{content: "punjab";}
+    50%{content: "goa";}
+    60%{content: "gujrat";}
+    70%{content: "kerala";}
     80%{content: "delhi";}
+    90%{content: "bihar";}
     100%{content: "mumbai";}
-
 }
